@@ -1,4 +1,11 @@
 # Smart City IoT System (using Cisco Packet Tracer)
+## Demo Video
+[Watch Demo](https://drive.google.com/file/d/1bLcNCVNMWDgK5Br0ygPMhl6_vebthOJO/view?usp=drive_link)
+(https://drive.google.com/file/d/1bLcNCVNMWDgK5Br0ygPMhl6_vebthOJO/view?usp=drive_link)
+
+## Cisco Packet Tracer File
+[Download .pkt file](https://drive.google.com/file/d/1rG0yVG0ylhvlgQgSxejhYTIW0u06NIDL/view?usp=drive_link)
+(https://drive.google.com/file/d/1rG0yVG0ylhvlgQgSxejhYTIW0u06NIDL/view?usp=drive_link)
 
 ## Aim
 The aim of this project is to design and simulate a Smart City IoT System 
@@ -98,12 +105,6 @@ Three independent modules operate in parallel over the same wireless network.
 ![Smart Surveillance](Screenshots/demo_smart_surveillance.png)
 ![Environmental Monitoring](Screenshots/demo_environmental_monitoring.png)
 
-## Demo Video
-[Watch Demo](https://drive.google.com/file/d/1bLcNCVNMWDgK5Br0ygPMhl6_vebthOJO/view?usp=drive_link)
-https://drive.google.com/file/d/1bLcNCVNMWDgK5Br0ygPMhl6_vebthOJO/view?usp=drive_link
 
-## Cisco Packet Tracer File
-[Download .pkt file](https://drive.google.com/file/d/1rG0yVG0ylhvlgQgSxejhYTIW0u06NIDL/view?usp=drive_link)
-https://drive.google.com/file/d/1rG0yVG0ylhvlgQgSxejhYTIW0u06NIDL/view?usp=drive_link
 
 
